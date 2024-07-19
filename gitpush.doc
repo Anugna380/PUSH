@@ -1,0 +1,3 @@
+gitpush: push is the command which send the files or folder from local repository to remote repository
+git push allows to transfer files to hosting services like github, gitlab, etc.
+

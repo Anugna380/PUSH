@@ -1,0 +1,4 @@
+git config: this command is used to create a directory. 
+while using git config global is used to set the user name and email for every repository in the computer.
+for current working repository global is removed.
+

@@ -1,0 +1,9 @@
+gitadd - add is the command used between working directory and staging area.
+with add command we can send single files from working directory to staging area, 
+we can send any number of files if we wanted by using add command.
+by giving git add untracked files will be tracked afterwards.
+
+
+gitstatus - status is the command which displays the state of working directory and staging area.
+after giving git status command it tells whether there are any commits are not, if not it tells to add files in it.
+

@@ -1,0 +1,5 @@
+
+git status: status command displays us the state of working directory and staging area.
+after giving git status command it shows whether there are commits in the working directory or not
+
+

@@ -1,0 +1,5 @@
+gitcommit: commit keeps the track of progress and changes aw we work. 
+commit command is given when we change from staging area to local repository. 
+we can add a message after giving git commit.
+by using commit command we can send single files from staging area to local repository in batch of files.
+
