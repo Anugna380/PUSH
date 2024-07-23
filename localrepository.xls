@@ -1,0 +1,5 @@
+localrepository: the local repository is a directory on the computer where Maven runs. 
+It caches remote downloads and contains temporary build artifacts that you have not yet released.
+Git allows users to perform work on a project from all over the world because of its distributive feature. 
+This can be done by cloning the content from the Central repository stored in the GitHub on the user’s local machine. 
+This local copy is used to perform operations and test them on the local machine before adding them to the central repository.

@@ -1,0 +1,3 @@
+remoterepository: Git allows the users to sync their copy of the local repository to other repositories present over the internet. 
+This can be done to avoid performing a similar operation by multiple developers. 
+Each repository in Git can be addressed by a shortcut called remote.
